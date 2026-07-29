@@ -1,0 +1,10 @@
+[
+  {"id": 1, "type": "丢失", "title": "蓝色水杯", "location": "第一食堂", "time": "2025-07-25", "description": "膳魔师保温杯，蓝色，杯盖有轻微划痕", "contact": "张同学 138****1234", "status": "待认领"},
+  {"id": 2, "type": "丢失", "title": "校园一卡通", "location": "教学楼A201", "time": "2025-07-24", "description": "尾号 2024 的校园卡，卡套为透明硅胶", "contact": "李同学 139****5678", "status": "待认领"},
+  {"id": 3, "type": "丢失", "title": "黑色书包", "location": "图书馆二楼", "time": "2025-07-23", "description": "Nike 双肩背包，主袋内有《高等数学》教材", "contact": "王同学 137****9012", "status": "已认领"},
+  {"id": 4, "type": "捡到", "title": "黑色钱包", "location": "篮球场", "time": "2025-07-26", "description": "在篮球场捡到，内有身份证和少量现金", "contact": "体育部 12345678", "status": "待认领"},
+  {"id": 5, "type": "捡到", "title": "白色耳机", "location": "第三食堂", "time": "2025-07-25", "description": "AirPods Pro 白色，左耳有轻微划痕", "contact": "食堂服务台 87654321", "status": "待认领"},
+  {"id": 6, "type": "捡到", "title": "钥匙串", "location": "行政楼大厅", "time": "2025-07-22", "description": "银色钥匙串，带有3把钥匙和一个小熊挂件", "contact": "行政楼值班室 11223344", "status": "已归还"},
+  {"id": 7, "type": "丢失", "title": "灰色围巾", "location": "体育馆更衣室", "time": "2025-07-21", "description": "羊绒针织围巾，灰色，长约1.5米", "contact": "陈同学 136****3456", "status": "待认领"},
+  {"id": 8, "type": "捡到", "title": "学生证", "location": "校门口", "time": "2025-07-20", "description": "2023级计算机学院，学号2023****0123", "contact": "保卫处 67890123", "status": "已归还"}
+]
